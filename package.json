@@ -1,0 +1,12 @@
+{
+  "name": "bitcoin-live",
+  "version": "1.0.0",
+  "description": "Users can see live price of bitcoin and can also purchase it",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kiran P",
+  "license": "ISC"
+}
